@@ -10,7 +10,7 @@
 
 <body>
 
-<<ol>
+<ol>
     <li>My name Aleksandr Kukuts</li>
     <li>Contacts <ul>
         <li>E-mail: alexanderkukuts@gmail.com</li>
